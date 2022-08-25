@@ -1,4 +1,4 @@
-package src;
+package src.encapsulation;
 
 import src.encapsulation.EncapsulationDemo;
 
