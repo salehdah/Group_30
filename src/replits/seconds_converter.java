@@ -1,6 +1,8 @@
+package src.replits;
+
 import java.util.*;
 
-class Main {
+class seconds_converter {
   public static void main(String[] args) {
     //WRITE YOUR CODE BELOW:
     System.out.println("Enter seconds:");

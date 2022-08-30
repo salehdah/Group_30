@@ -1,6 +1,8 @@
+package src.replits;
+
 import java.util.Scanner;
 
-public class Main {
+public class sandwich {
   public static void main(String[] args) {
     //DO NOT TOUCH FOLLOWING LINE/LINES
     Scanner scan = new Scanner(System.in);

@@ -1,6 +1,8 @@
+package src.replits;
+
 import java.util.*;
 
-class Main {
+class Arraylist_Fuel {
   public static int refuels(ArrayList<Integer> deliveries,int gasTank) {
     int sum=0;
     for(int i=0; i<deliveries.size(); i++){

@@ -1,6 +1,7 @@
+package src.replits;
 import java.util.*;
 
-public class Main {
+public class time {
   public static void main(String[] args) {
     //1. WRITE YOUR CODE HERE:
 

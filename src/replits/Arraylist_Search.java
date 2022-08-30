@@ -1,6 +1,8 @@
+package src.replits;
+
 import java.util.*;
 
-class Main {
+class Arraylist_Search {
 
   public static String search(ArrayList<String> strs, String find) {
       // complete the method

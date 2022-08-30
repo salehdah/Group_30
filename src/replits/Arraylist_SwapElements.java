@@ -1,6 +1,6 @@
 import java.util.*;
 
-class Main {
+class Arraylist_SwapElements {
   
   public static ArrayList<String> swap(ArrayList<String> list,int pos1,int pos2) {
     String firstSwap=list.get(pos1);

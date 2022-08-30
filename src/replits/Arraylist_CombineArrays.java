@@ -1,8 +1,8 @@
+package src.replits;
+
 import java.util.ArrayList;
-import java.util.List;
-import java.util.Arrays;
 import java.util.*;
-class Main {
+class main {
   public static ArrayList<String> combine(String[] r1, String[] r2){
 
     // your code here
