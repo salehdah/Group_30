@@ -1,6 +1,8 @@
+package src.replits;
+
 import java.util.*;
 
-class Main {
+class Arraylist_Nanuk {
 
   public static boolean hunt(ArrayList<String> result,int wayStones,int boast) {
     int countNanuk=0;

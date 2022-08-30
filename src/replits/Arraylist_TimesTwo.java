@@ -1,6 +1,8 @@
+package src.replits;
+
 import java.util.ArrayList;
 import java.util.*;
-class Main{
+class Arraylist_TimesTwo{
 
   public static ArrayList<Integer> timesTwo(ArrayList<Integer> nums){
 ArrayList<Integer> newNums= new ArrayList<>();

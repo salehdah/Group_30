@@ -1,7 +1,9 @@
+package src.replits;
+
 import java.util.Scanner;
 
 
-public class Main {
+public class Phone_number {
  public static void main(String[] args){
     //DO NOT TOUCH THESE LINE/LINES.
     // Variables are already declared and given

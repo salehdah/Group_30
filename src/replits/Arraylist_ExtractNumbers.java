@@ -1,6 +1,8 @@
+package src.replits;
+
 import java.util.Scanner;
 
-class Main {
+class Arraylist_ExtractNumbers {
   public static String extractNum(String s) {
     String newWord="";
     for(int i=0; i<s.length();i++){
